@@ -1,0 +1,4 @@
+AIzaSyBk_KX-jx3cTCPEUuom85Qfw_vCvXS_rgg
+jucaleonardi - 021538@aA
+
+mongodb+srv://jucaleonardi:021538@aA@cluster0.oivpp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
